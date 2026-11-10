@@ -1,9 +1,5 @@
 <?php
-<<<<<<< HEAD
 $sezonaGodina = 2026;
-=======
-$sezonaGodian = 2026;
->>>>>>> 9cadff4a9e97626c4d1136cc4ff8e1d7f93367bb
 ?>
 <!DOCTYPE html>
 <html lang="hr">
