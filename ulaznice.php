@@ -15,21 +15,21 @@ $sezonaGodina = 2026;
         </tr>
         <tr>
             <td>Redovna ulaznica</td>
-            <td>[ ]</td>
+            <td>7</td>
             <td>[ ]</td>
             <td>[ ]</td>
             <td>[ ]</td>
         </tr>
         <tr>
             <td>3D projekcija</td>
-            <td>[ ]</td>
+            <td>9</td>
             <td>[ ]</td>
             <td>[ ]</td>
             <td>[ ]</td>
         </tr>
         <tr>
             <td>Najam dvorane (2 sata)</td>
-            <td>[ ]</td>
+            <td>1040</td>
             <td>[ ]</td>
             <td>[ ]</td>
             <td>[ ]</td>
